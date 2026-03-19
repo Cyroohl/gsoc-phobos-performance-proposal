@@ -1,31 +1,29 @@
-# 🚀 GSoC Proposal – Phobos Performance Optimization
+# 🚀 Enhancing Performance of Phobos in the D Ecosystem
 
-This repository contains my Google Summer of Code proposal.
-
-## 📌 Project Title
-Enhancing Performance of the Phobos Standard Library in the D Ecosystem
+## 📌 About the Project
+This project focuses on improving the performance of the Phobos standard library in the D programming language. The goal is to optimize critical components to make them faster, more efficient, and reliable.
 
 ## 👤 About Me
-My name is Cyrus, and I am a student with a Certificate in ICT. I have a strong interest in programming and software development. I am passionate about contributing to open-source projects and improving my coding skills.
+I am Cyrus, a student with a Certificate in ICT. I am passionate about programming, problem-solving, and contributing to open-source projects. I am currently applying for Google Summer of Code.
 
-## 🎯 Project Goal
-The main goal of this project is to improve the performance and efficiency of the Phobos Standard Library by:
-- Identifying performance bottlenecks  
-- Optimizing algorithms and code structure  
-- Reducing memory usage  
-- Improving execution speed  
+## 🎯 Project Objectives
+- Identify performance bottlenecks in Phobos  
+- Optimize algorithms and implementations  
+- Reduce memory usage  
+- Improve execution speed  
+- Ensure code maintainability and clarity  
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 - D Programming Language  
 - Phobos Standard Library  
 - DMD Compiler  
 - Dub Package Manager  
 - Git & GitHub  
 
-## 📈 Expected Outcome
-- Faster and more efficient Phobos modules  
-- Improved code quality and performance  
-- Well-tested and documented improvements  
+## 📈 Expected Outcomes
+- Improved performance of selected Phobos modules  
+- Cleaner and more efficient code  
+- Better understanding of performance optimization in D  
 
 ## 📬 Contact
 GitHub: https://github.com/Cyrooh
