@@ -1,29 +1,38 @@
 # 🚀 Enhancing Performance of Phobos in the D Ecosystem
 
-## 📌 About the Project
-This project focuses on improving the performance of the Phobos standard library in the D programming language. The goal is to optimize critical components to make them faster, more efficient, and reliable.
+## 📌 Project Overview
+This project aims to improve the performance of the Phobos standard library in the D programming language by identifying and optimizing performance-critical components. The focus will be on reducing execution time, improving memory efficiency, and enhancing overall reliability.
 
 ## 👤 About Me
-I am Cyrus, a student with a Certificate in ICT. I am passionate about programming, problem-solving, and contributing to open-source projects. I am currently applying for Google Summer of Code.
+I am Cyrus, a student with a Certificate in ICT. I have a strong interest in programming, problem-solving, and contributing to open-source projects. I am currently applying for Google Summer of Code.
 
-## 🎯 Project Objectives
-- Identify performance bottlenecks in Phobos  
-- Optimize algorithms and implementations  
-- Reduce memory usage  
-- Improve execution speed  
-- Ensure code maintainability and clarity  
+## 🎯 Problem Statement
+The Phobos standard library is widely used, but some of its components may not be fully optimized for performance. This project will analyze these areas to identify bottlenecks and improve efficiency.
 
-## 🛠️ Technologies Used
+## 🛠️ Proposed Approach
+- Use profiling tools to identify performance bottlenecks  
+- Analyze existing implementations in Phobos  
+- Optimize algorithms and data structures  
+- Benchmark before and after improvements  
+- Ensure code maintainability and readability  
+
+## 🧰 Technologies
 - D Programming Language  
 - Phobos Standard Library  
 - DMD Compiler  
 - Dub Package Manager  
 - Git & GitHub  
 
+## 📅 Timeline
+- Week 1–2: Study codebase and identify bottlenecks  
+- Week 3–4: Implement initial optimizations  
+- Week 5–6: Testing and benchmarking  
+- Week 7–8: Final improvements and documentation  
+
 ## 📈 Expected Outcomes
 - Improved performance of selected Phobos modules  
-- Cleaner and more efficient code  
-- Better understanding of performance optimization in D  
+- Reduced memory usage and faster execution  
+- Clean and maintainable code improvements  
 
 ## 📬 Contact
 GitHub: https://github.com/Cyrooh
