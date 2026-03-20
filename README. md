@@ -72,3 +72,15 @@ The project demonstrates how performance can be measured using the D programming
 - The result helps analyze performance efficiency
 
 This forms the basis for identifying bottlenecks and optimizing the Phobos standard library.
+
+## ⚡ Optimization Idea
+
+An improved version of the benchmark can focus on reducing overhead and improving performance.
+
+### Key Improvements:
+- Using more efficient loops or algorithms
+- Reducing unnecessary computations
+- Improving memory access patterns
+
+### Example (Concept):
+Instead of repeatedly performing expensive operations inside loops, pre-computed or optimized approaches can be used to improve execution time.
