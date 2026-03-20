@@ -90,3 +90,10 @@ Instead of repeatedly performing expensive operations inside loops, pre-computed
 1. Install the D compiler (DMD)
 2. Save the file as `benchmark.d`
 3. Compile the program:
+
+## 🔮 Future Improvements
+
+- Add more advanced benchmarks for different data structures  
+- Compare performance before and after optimization  
+- Explore memory profiling and optimization techniques  
+- Contribute improvements back to the Phobos standard library
