@@ -62,3 +62,13 @@ void main()
     writeln("Sum: ", sum);
     writeln("Time taken: ", end - start);
 }
+
+## 📊 Benchmark Explanation
+
+The project demonstrates how performance can be measured using the D programming language.
+
+- A loop is executed 1,000,000 times
+- Execution time is recorded using `std.datetime`
+- The result helps analyze performance efficiency
+
+This forms the basis for identifying bottlenecks and optimizing the Phobos standard library.
