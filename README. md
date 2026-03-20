@@ -84,3 +84,9 @@ An improved version of the benchmark can focus on reducing overhead and improvin
 
 ### Example (Concept):
 Instead of repeatedly performing expensive operations inside loops, pre-computed or optimized approaches can be used to improve execution time.
+
+## ▶️ How to Run
+
+1. Install the D compiler (DMD)
+2. Save the file as `benchmark.d`
+3. Compile the program:
