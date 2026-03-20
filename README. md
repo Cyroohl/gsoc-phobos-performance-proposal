@@ -36,3 +36,29 @@ The Phobos standard library is widely used, but some of its components may not b
 
 ## 📬 Contact
 GitHub: https://github.com/Cyrooh
+
+## 🧪 Benchmark Example
+
+This project includes a simple benchmark to measure execution time of a loop operation in D.
+
+### Code Example
+```d
+import std.stdio;
+import std.datetime;
+
+void main()
+{
+    auto start = Clock.currTime();
+
+    long sum = 0;
+
+    foreach (i; 0 .. 1_000_000)
+    {
+        sum += i;
+    }
+
+    auto end = Clock.currTime();
+
+    writeln("Sum: ", sum);
+    writeln("Time taken: ", end - start);
+}
